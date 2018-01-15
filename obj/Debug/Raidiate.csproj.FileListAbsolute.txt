@@ -1,0 +1,10 @@
+D:\Projects\VisualStudioProjects\Raidiate\Raidiate\Raidiate\bin\Debug\Raidiate.exe.config
+D:\Projects\VisualStudioProjects\Raidiate\Raidiate\Raidiate\bin\Debug\Raidiate.exe
+D:\Projects\VisualStudioProjects\Raidiate\Raidiate\Raidiate\bin\Debug\Raidiate.pdb
+D:\Projects\VisualStudioProjects\Raidiate\Raidiate\Raidiate\obj\Debug\Raidiate.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudioProjects\Raidiate\Raidiate\Raidiate\obj\Debug\Raidiate.radiate.resources
+D:\Projects\VisualStudioProjects\Raidiate\Raidiate\Raidiate\obj\Debug\Raidiate.Properties.Resources.resources
+D:\Projects\VisualStudioProjects\Raidiate\Raidiate\Raidiate\obj\Debug\Raidiate.csproj.GenerateResource.Cache
+D:\Projects\VisualStudioProjects\Raidiate\Raidiate\Raidiate\obj\Debug\Raidiate.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudioProjects\Raidiate\Raidiate\Raidiate\obj\Debug\Raidiate.exe
+D:\Projects\VisualStudioProjects\Raidiate\Raidiate\Raidiate\obj\Debug\Raidiate.pdb
